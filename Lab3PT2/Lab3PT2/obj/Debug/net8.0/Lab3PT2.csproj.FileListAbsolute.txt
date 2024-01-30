@@ -1,0 +1,14 @@
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\bin\Debug\net8.0\Lab3PT2.exe
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\bin\Debug\net8.0\Lab3PT2.deps.json
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\bin\Debug\net8.0\Lab3PT2.runtimeconfig.json
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\bin\Debug\net8.0\Lab3PT2.dll
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\bin\Debug\net8.0\Lab3PT2.pdb
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\Lab3PT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\Lab3PT2.AssemblyInfoInputs.cache
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\Lab3PT2.AssemblyInfo.cs
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\Lab3PT2.csproj.CoreCompileInputs.cache
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\Lab3PT2.dll
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\refint\Lab3PT2.dll
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\Lab3PT2.pdb
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\Lab3PT2.genruntimeconfig.cache
+C:\Users\tycer\OneDrive\Desktop\OOP2\Labs\Lab3PT2\Lab3PT2\obj\Debug\net8.0\ref\Lab3PT2.dll
